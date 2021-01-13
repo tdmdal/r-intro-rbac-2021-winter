@@ -17,6 +17,7 @@ R is an open-source programming language for statistical computing and graphics.
         * A deep learning ["hello world" example](https://tensorflow.rstudio.com/tutorials/beginners/): recognizing handwritten digits from the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset (R script: [dl_hello_world.R](dl_hello_world.R)). 
     * Data and Programming Structures (R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-rbac-2021-winter/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb))
     * Extending the simple regression example (R script: [r3_data_manipulation_modelling_report_housing.R](r3_data_manipulation_modelling_report_housing.R))
+        * Data Import
         * Data Manipulation
         * Modelling
         * Report ([sample regression report](result.html))
