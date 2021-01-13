@@ -1,0 +1,13 @@
+name: "TDMDAL Workshop"
+output_dir: "docs"
+include: ["*.pdf", "*.R"]
+exclude: ["*.pptx", "*.docx"]
+navbar:
+  title: "Intro to R (RBAC - 2021 Winter)"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
