@@ -2,7 +2,7 @@
 title: "Introduction to R"
 ---
 
-R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that makes data analysis easy for beginners. This workshop will introduce you the basics of using R for data science work. Through implementing a simple project, we will together work through a typical data analysis workflow: 1) import data, 2) manipulate data; 3) build models; 4) report results.
+R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that makes data analysis easy for beginners. This workshop will introduce you the basics of using R for data science work. Through implementing a simple project, we will together work through a typical data analysis workflow: 1) import data; 2) manipulate data; 3) build models; 4) report results.
 
 ---
 
@@ -14,7 +14,7 @@ R is an open-source programming language for statistical computing and graphics.
     * Motivation
         * A simple regression example (R script: [r1_simple_regression_housing.R](r1_simple_regression_housing.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-rbac-2021-winter/blob/master/docs/rn1_A_Simple_Regression_Housing.ipynb))
         * A twitter example (R script: [twitter_example.R](twitter_example.R); Word Cloud for #rstat: [twitter_word_cloud.html](twitter_word_cloud.html))
-        * A deep learning ["hello world" example](https://tensorflow.rstudio.com/tutorials/beginners/): recognizing handwritten digits from the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset. 
+        * A deep learning ["hello world" example](https://tensorflow.rstudio.com/tutorials/beginners/): recognizing handwritten digits from the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset (R script: [dl_hello_world.R](dl_hello_world.R)). 
     * Data and Programming Structures (R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-rbac-2021-winter/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb))
     * Extending the simple regression example (R script: [r3_data_manipulation_modelling_report_housing.R](r3_data_manipulation_modelling_report_housing.R))
         * Data Manipulation

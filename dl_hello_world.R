@@ -1,7 +1,8 @@
+# https://tensorflow.rstudio.com/tutorials/beginners/
 # load the library
 library(keras)
 
-# 1. load data and rescaling
+# 1. load data and rescale the x variable
 mnist <- dataset_mnist()
 mnist$train$x <- mnist$train$x/255
 mnist$test$x <- mnist$test$x/255

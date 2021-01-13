@@ -39,5 +39,5 @@ data_url <- "https://tdmdal.github.io/r-intro-rbac-2021-winter/data/hprice.csv"
 # report regression result; summary()
 
 
-# can we do better; stargazer package
+# can we do better; huxtable package
 
