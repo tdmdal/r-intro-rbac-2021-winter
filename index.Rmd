@@ -4,6 +4,8 @@ title: "Introduction to R"
 
 R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that makes data analysis easy for beginners. This workshop will introduce you the basics of using R for data science work. Through implementing a simple project, we will together work through a typical data analysis workflow: 1) import data; 2) manipulate data; 3) build models; 4) report results.
 
+To get the most of this workshop, create a free [RStudio Cloud account](https://rstudio.cloud/) so that you could follow along some of the code we will work on during the workshop.
+
 ---
 
 #### Slides and Code
